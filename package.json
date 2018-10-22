@@ -1,0 +1,8 @@
+{
+  "name": "Сontrol-iD",
+  "version": "0.0.1",
+  "dependencies": {
+    "less": "^2.7.3",
+    "normalize.css": "^7.0.0"
+  }
+}
